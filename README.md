@@ -76,35 +76,66 @@ All components will be built with **reusability** and **design consistency** in 
 
 ---
 
-## 🖌️ UI/UX Design Details
+## 🎨 UI/UX Design Planning
 
-### 🎨 Color Styles
-| Name         | Color      |
-|--------------|------------|
-| Primary      | `#FF5A5F`  |
-| Secondary    | `#008489`  |
-| Background   | `#FFFFFF`  |
-| Text         | `#222222`  |
-| Secondary Text | `#717171` |
+### 🧭 Design Goals
 
-### ✍️ Typography
-- **Primary Font:** Circular (or alternative like "Poppins")
-- **Headings:** Bold (700), 24px–32px
-- **Body Text:** Medium (500), 16px
-- **Secondary Text:** Book (400), 14px
+- ✅ Create an **intuitive and seamless booking flow** for users
+- 🎯 Maintain **visual consistency** across all pages
+- ⚡ Ensure **fast loading times** and **snappy interactions**
+- 📱 Prioritize **mobile-first responsiveness**
+- ♿ Uphold **accessibility standards** (WCAG)
+- 💡 Build a layout that communicates **trust and reliability**
 
 ---
 
-## 📄 Primary Pages Overview
+### ✨ Key Features to Implement
 
-| Page Name              | Description |
-|------------------------|-------------|
-| **Property Listings View** | Grid of properties with filters (location, price, date) |
-| **Listing Details View**   | Full details with image carousel, description, amenities, booking form |
-| **Checkout View**          | Secure, simple payment and confirmation |
-| **Authentication**         | Signup, login, and protected user routes |
+- 🔍 **Property Search & Filtering**  
+  Users can search by location, price range, date, and amenities.
+
+- 🏘️ **Property Listing Cards**  
+  Display essential details like title, image, location, and pricing.
+
+- 📄 **Detailed Property View**  
+  High-quality images, amenities list, host information, and reviews.
+
+- 🛒 **Simple, Secure Checkout**  
+  Streamlined booking form with payment and confirmation.
+
+- 🔐 **User Authentication**  
+  Login and registration flow for secure bookings and saved listings.
+
+- ❤️ **Favorite Functionality**  
+  Users can save properties for later reference.
 
 ---
+
+### 📄 Primary Pages Overview
+
+| Page Name               | Description |
+|-------------------------|-------------|
+| **Property Listing View** | Displays a grid of available properties with filters for location, price, availability, and amenities. Each listing includes a thumbnail image, location, price per night, and a brief description. |
+| **Listing Detailed View** | Shows complete property information such as full-size image gallery, detailed description, amenities, reviews, host profile, and a booking form. Designed for deep user engagement. |
+| **Simple Checkout View** | A clean, minimal interface that allows users to confirm their stay details, input payment info (or mock payment), and finalize the booking. Ends with a confirmation screen. |
+
+---
+
+### 🌟 Importance of User-Friendly Design in a Booking System
+
+A successful booking system depends heavily on the quality of its **user experience (UX)**. If users can’t navigate easily, they won’t complete bookings — leading to low conversion rates.
+
+User-friendly design ensures that:
+- 🔄 **Booking flows are smooth** with minimal steps and no confusion
+- 👀 **Visual hierarchy guides users’ attention** to what matters
+- 🧠 **Cognitive load is reduced**, allowing users to make quick decisions
+- 📱 **Mobile responsiveness** allows users to book from any device
+- 🧩 **Consistency across components** builds familiarity and trust
+
+In short, great UI/UX is not just “design” — it’s a key feature of the product that directly impacts user trust, behavior, and business outcomes.
+
+---
+
 
 ## 💡 Importance of Good Design
 
