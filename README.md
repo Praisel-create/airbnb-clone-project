@@ -45,6 +45,19 @@ By completing this project, contributors will:
 - Include this comprehensive `README.md`
 - Add issues and milestones for tracking progress
 
+## 👥 Roles & Responsibilities
+
+| Role               | Responsibilities |
+|--------------------|------------------|
+| **Project Manager**     | Oversees timeline, deliverables, and coordination |
+| **Frontend Developers** | Build UI components, ensure responsiveness and usability |
+| **Backend Developers**  | Create APIs, database logic, and core functionality |
+| **Designers**           | Design mockups, maintain design systems, ensure UX |
+| **QA/Testers**          | Write test cases, identify bugs, ensure quality |
+| **DevOps Engineers**    | Manage deployment pipeline, CI/CD, and hosting |
+| **Product Owner**       | Define features, user needs, and priorities |
+| **Scrum Master**        | Facilitate agile ceremonies and clear blockers |
+
 ### 🧩 UI/UX Design Planning
 - Document overall **design goals**
 - Create **page descriptions** for main user flows
@@ -53,7 +66,7 @@ By completing this project, contributors will:
 
 ---
 
-## 🧱 Planned UI Components
+## 🧱 UI Components Patterns
 
 ### ✅ Navbar
 - Logo
@@ -77,6 +90,21 @@ All components will be built with **reusability** and **design consistency** in 
 ---
 
 ## 🎨 UI/UX Design Planning
+
+### 🎨 Color Styles
+| Name         | Color      |
+|--------------|------------|
+| Primary      | `#FF5A5F`  |
+| Secondary    | `#008489`  |
+| Background   | `#FFFFFF`  |
+| Text         | `#222222`  |
+| Secondary Text | `#717171` |
+
+### ✍️ Typography
+- **Primary Font:** Circular (or alternative like "Poppins")
+- **Headings:** Bold (700), 24px–32px
+- **Body Text:** Medium (500), 16px
+- **Secondary Text:** Book (400), 14px
 
 ### 🧭 Design Goals
 
